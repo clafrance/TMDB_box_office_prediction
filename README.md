@@ -1,2 +1,2 @@
 # TMDB_box_office_prediction
- Build a model to try to predict the overall worldwide box office revenue using dataset from The Movie Database. 
+Application to predict the overall worldwide box office revenue. The model is build using The Movie Database (TMDb).
